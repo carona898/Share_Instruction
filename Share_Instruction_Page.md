@@ -1,4 +1,4 @@
-[Upload a dataset](#dataset) | [Upload a tool/pipeline](#pipeline) | [DATS Editor](https://portal-test.conp.ca/dats-editor)
+[Upload a dataset](#dataset) | [Upload a tool/pipeline](#pipeline) | [DATS Editor](https://portal-dev.conp.ca/dats-editor)
 
 
 # <a name="dataset"></a> Dataset Addition Procedures
